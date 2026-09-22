@@ -1,6 +1,7 @@
 # Enterprise Data Product Management & Observability Blueprint
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/rafaelmatsuyama/FIAP-ABD-DataProductManagement)
+[![FIAP MBA](https://img.shields.io/badge/FIAP-MBA%20Engenharia%20de%20Dados-ED145B?logo=fiap&logoColor=white)](https://www.fiap.com.br/mba/mba-em-engenharia-de-dados/)
 ![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)
 ![DuckDB](https://img.shields.io/badge/DuckDB-1.1%2B-FFF000?logo=duckdb&logoColor=black)
 ![dbt](https://img.shields.io/badge/dbt--core-1.8%2B-FF694B?logo=dbt&logoColor=white)
@@ -10,7 +11,8 @@
 ![Code License](https://img.shields.io/badge/Code-Apache%202.0-green.svg)
 ![Content License](https://img.shields.io/badge/Content-CC%20BY--NC--SA%204.0-orange.svg)
 
-> **A battle-tested reference architecture and interactive lab suite for Data Mesh, Open Data Contracts (ODCS), Analytics Engineering with dbt Model Contracts, Shift-Left Quality Gates, End-to-End Lineage Tracking, and Data SRE.**
+> **Official reference architecture and interactive lab suite developed for the [MBA em Engenharia de Dados](https://www.fiap.com.br/mba/mba-em-engenharia-de-dados/) at FIAP.**  
+> *Covering Data Mesh, Open Data Contracts (ODCS), dbt Model Contracts, Shift-Left Quality Gates, End-to-End Lineage Tracking, and Data SRE.*
 
 ---
 
